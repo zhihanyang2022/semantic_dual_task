@@ -1,0 +1,13 @@
+{
+  "welcome":"Hi, experimenter. Welcome to the semantic dual task program. To begin the program, press the space bar and instructions will be shown immediately.",
+  "before_practice":"In this task, you will hear background noise through the headphones. Periodically, a single word will appear on the screen. If the target word is a noun, press the “noun” button as quickly as possible, then repeat the word out loud. So, you should be pressing the noun button for nouns (but not non-nouns) and repeating every word. Note that some words may be multiple parts of speech (e.g., “ring” can be both a noun and a verb). \n\nPress the noun button (TODO: the space bar) if the word can ever be used as a noun. The background noise may change as you progress through the task. \n\nPress the noun button (TODO: the space bar) to try some practice.",
+  "before_block_1":"N/A",
+  "after_block_1":"You have completed this block. Press the space bar to continue.",
+  "before_block_2":"N/A",
+  "after_block_2":"You have completed this block. Press the space bar to continue.",
+  "before_block_3":"N/A",
+  "after_block_3":"You have completed this block. Press the space bar to continue.",
+  "before_block_4":"N/A",
+  "after_block_4":"You have completed this block. Press the space bar to continue.",
+  "after_experiment":"Thank you for participating!"
+}
