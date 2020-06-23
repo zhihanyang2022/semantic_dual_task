@@ -2,7 +2,7 @@
 Code for semantic dual task for Perception Lab @ Carleton.
 
 To run this program:
-- Open `main.py` in PsycoPy. Make sure to set `is_debug_mode=True` if you only want to test the program quickly; set it to `False` otherwise.
+- Open `main.py` in PsycoPy. Make sure to set `is_debug_mode=True` (currently at line 36 of `main.py`, may change as you change the code) if you only want to test the program quickly; set it to `False` otherwise.
 
 To understand how and why this program works:
 - Simply read `main.py` - I've annotated it very extensively so don't fear.
