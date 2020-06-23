@@ -11,7 +11,7 @@ Files and their purposes:
 - `letter_2_word_list_order`: This dictionary maps integer index to order of four word lists.
 - `instructions`: This dictionary maps event to messages that we would like to display to our participants.
 - `main.py`: Run this script using PsycoPy. 
-- `data`: Data will be saved here. First column: word index; second column: noun response; third column: response time. This need to be analyzed later by referencing `tape.json`.
+- `data`: Data will be saved here. First column: word index; second column: noun response; third column: response time. This need to be analyzed later by referencing `tape.json`. See `./data/12.csv` for an example output file for a hypothetical participant whose id is 12.
 
 TODOs:
 - Add noise files
