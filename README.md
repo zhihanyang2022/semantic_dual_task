@@ -1,4 +1,4 @@
-# semantic_dual_task
+# Semantic Dual Task
 Code for semantic dual task for Perception Lab @ Carleton.
 
 Files and their purposes:
